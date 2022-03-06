@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "RelBG",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./src/index.js localhost 3000"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
